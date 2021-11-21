@@ -1,0 +1,6 @@
+F:\Visual Studio\UniversityInformationWebApp\UniversityInformationWebApp\bin\UniversityInformationWebApp.dll.config
+F:\Visual Studio\UniversityInformationWebApp\UniversityInformationWebApp\bin\UniversityInformationWebApp.dll
+F:\Visual Studio\UniversityInformationWebApp\UniversityInformationWebApp\bin\UniversityInformationWebApp.pdb
+F:\Visual Studio\UniversityInformationWebApp\UniversityInformationWebApp\obj\Debug\UniversityInformationWebApp.csprojResolveAssemblyReference.cache
+F:\Visual Studio\UniversityInformationWebApp\UniversityInformationWebApp\obj\Debug\UniversityInformationWebApp.dll
+F:\Visual Studio\UniversityInformationWebApp\UniversityInformationWebApp\obj\Debug\UniversityInformationWebApp.pdb
